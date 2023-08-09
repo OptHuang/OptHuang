@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/OptHuang?logo=github&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/OptHuang?logo=github&style=for-the-badge)
 
-I am currently a PhD student at the [Hong Kong Polytechnic University](https://www.polyu.edu.hk/), specializing in Applied Optimization and Optimal Control.
+I am currently a PhD student at [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), majoring in Applied Optimization and Optimal Control.
 
 ## 🌱 Languages
 
@@ -14,14 +14,10 @@ I am currently a PhD student at the [Hong Kong Polytechnic University](https://w
 
 ## My Research
 
-I'm currently sinking (quite happily) into the depths of "Non-convergence of Probabilistic Direct search". It's a bit like trying to find a black cat in a dark room, especially if there is no cat. But hey, I've always liked challenging puzzles.
+I'm currently researching on Derivative-free Optimization (DFO), especially randomized methods and their corresponding analysis.
 
 ## Useful Links
 
 - [My Personal Website](https://opthuang.github.io/)
-- [Hong Kong Polytechnic University](https://www.polyu.edu.hk/)
-- [My GitHub](https://github.com/OptHuang)
-- [My Research Papers](https://opthuang.github.io/#papers)
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 Remember, the difficult things in life are meant to make us better, not bitter. Keep exploring! 🚀
