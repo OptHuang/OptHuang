@@ -14,7 +14,7 @@ I am currently a PhD student at [Department of Applied Mathematics](https://www.
 
 ## My Research
 
-I'm currently researching on Derivative-free Optimization (DFO), especially randomized methods and their corresponding analysis.
+I'm currently researching on Derivative-Free Optimization (DFO), especially randomized methods and their corresponding analysis.
 
 ## Useful Links
 
